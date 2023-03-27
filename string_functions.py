@@ -28,3 +28,4 @@ def capitalize(string):
     result += to_lower(string[1:])
 
     return result
+# print(to_lower('HELLO'))
